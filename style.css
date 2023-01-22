@@ -1,0 +1,12 @@
+
+  .jumbotron {
+    background-image: url('microbio.png');
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+  
+  }
+  .mask-custom {
+    background-color: rgba(0,0,0,0.5);
+  }
+  

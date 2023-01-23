@@ -12,7 +12,7 @@ The objective is to identify a bacteria species that can be used to manufacture 
 4. Use Plotly to build bar, gauge, and bubble plots. 
 
 ## Resources
-- Data Source: data.js
+- Data Source: samples.json
 - Software: HTML, CSS, JavaScript, D3, BootStrap, Visual Studio Code, 1.73.0
 
 ## Results:
